@@ -2,7 +2,7 @@ using System;
 
 class Printer
 {
-
+//HackerRank problem and solution
   /**
 	*    Name: PrintArray
 	*    Print each element of the generic array on a new line. Do not return anything.
