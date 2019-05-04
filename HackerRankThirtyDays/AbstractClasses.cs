@@ -26,6 +26,7 @@ class MyBook : Book{
         Console.Write("Title: {0} \nAuthor: {1} \nPrice: {2}", title, author, price);
     }
 }
+//Solution class included
 class Solution {
     static void Main(String[] args) {
       String title=Console.ReadLine();
